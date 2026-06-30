@@ -5,7 +5,7 @@
 }
 
 body{
-    background-color: #b3b3b3a3;
+    background-color:#344661;
     color:white;
     font-family:Arial, sans-serif;
     max-width:1200px;
@@ -61,7 +61,4 @@ p{
     height:250px;
     object-fit:cover;
     border-radius:10px;
-}
-#imagen {
-    text-align: center;
 }
